@@ -15,11 +15,12 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ##### Desktop view
 
-![image](https://github.com/Mohak-Gogia/Product-preview-card-component/assets/91110127/993d7331-b013-4b8b-8262-a1f1593f7350)
+![image](https://github.com/Mohak-Gogia/3-column-preview-card-component/assets/91110127/adc7da85-0886-482b-bfa1-b08bf6b332d0)
 
 ##### Mobile view
 
-![image](https://github.com/Mohak-Gogia/Product-preview-card-component/assets/91110127/bfd00c8f-2720-4682-b77d-44489a0e0454)
+![image](https://github.com/Mohak-Gogia/3-column-preview-card-component/assets/91110127/975b6edf-bab1-4047-a159-02ffa2e0926f)
+![image](https://github.com/Mohak-Gogia/3-column-preview-card-component/assets/91110127/7493a639-e329-4bb2-ba2d-03c41173f28a)
 
 ### Links
 
