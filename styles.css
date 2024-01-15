@@ -21,6 +21,10 @@ body {
     display: flex;
 }
 
+h2 {
+    font-size: 2rem;
+}
+
 .sedan, .suv, .luxury {
     width: 33.34%;
     display: flex;
@@ -94,8 +98,15 @@ body {
     color: hsl(179, 100%, 13%);
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: hsla(0, 0%, 100%, 1);
+}
+
 .sedan-btn:hover {
-    cursor: pointer;
     background-color: hsl(31, 77%, 52%);
     color: hsla(0, 0%, 100%, 1);
     border: 0.2em solid hsla(0, 0%, 100%, 1);
